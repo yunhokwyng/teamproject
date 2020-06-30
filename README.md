@@ -38,9 +38,12 @@
 
 
 
-### Google의 기능
-| 검색 | 사진 | 메일 |```코딩```| 드라이브 | 번역 | 지도 | 문서 | 프레제테이션 |
+### Google의 기능들
+| Search | Photo | G-Mail |```Google Colaboratory```| Google Drive | Translation | Map | Word | Presentation |
 |----|:----|:----|:----|:----|:-----|:----|:----|:-----|
+
+
+
 
 
 
